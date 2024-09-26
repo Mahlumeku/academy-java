@@ -1,7 +1,7 @@
 package com.bptn.course._05_strings;
 
 public class Strings {
-
+//New comment 
 	public static void main(String[] args) {
 		//String userName = "This is a test"; 
 		//System.out.println(userName.length());
