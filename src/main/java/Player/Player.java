@@ -10,7 +10,7 @@ public class Player {
 // Question: should scanner be static or not?
 	private static Scanner scanner = new Scanner(System.in); // complete line
 
-public Player(String name, String playerNumber) {
+public Player(String name, int playerNumber) {
     // complete constructor
     this.name = name;
     if(playerNumber > 0 && playerNumber <= 4){
